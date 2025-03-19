@@ -159,7 +159,7 @@ public class NearByHospitalActivity extends Fragment implements
         googlePlaceUrl.append("&radius=").append(PROXIMITY_RADIUS);
         googlePlaceUrl.append("&type=").append(nearbyPlace);
         googlePlaceUrl.append("&sensor=true");
-        googlePlaceUrl.append("&key=" + "AIzaSyAmeQ8IwQWBcmFLRpKARu7LM1TlShQKmfg");
+        googlePlaceUrl.append("&key=" + "");
 
         Log.d("NearbyHospitalActivity", "url = " + googlePlaceUrl.toString());
 
