@@ -1,14 +1,52 @@
-# Idea
-The app aims to provide a platform for people to monitor their health.
 
-#   Features
-    1. Signup/Login
-    2. Chat with Doctor, who are classified based on their specialization, also it provides option to fix appointment with doctor.
-    3. Payment Option
-    4. Blog to give health related tips and other health related stuffs.
-    5. Mood Detection based on certain questions. Questions will be in a form of tree where particular option lead to particular question 
-       and finally mood is decided based on these questions.
-    6. Option to check nearby blood banks and request for blood if required. If blood is not available the user will be informed                  accordingly.
-    7. Pedometer :- to calculate no. of steps and print calories based on that.
-    8. A diseases section to give info about particular disease.
-    9. FAQ Section.
+# 🏥 HEALTH BUDDY
+
+Health Buddy is a **comprehensive health monitoring app** that allows users to **track their health, consult doctors, check nearby blood banks, detect mood, and access health-related blogs**. This app provides a one-stop solution for users to maintain their well-being.  
+
+## 🚀 Features  
+
+### 🔹 User Management  
+- **Signup/Login**: Secure authentication for users.  
+
+### 🔹 Doctor Consultation  
+- **Chat with Doctors**: Doctors are categorized based on their specialization.  
+- **Book Appointments**: Easily schedule appointments with healthcare professionals.  
+
+### 🔹 Health Insights & Tracking  
+- **Mood Detection**: Interactive questionnaire-based mood analysis.  
+- **Pedometer**: Tracks steps and calculates burned calories.  
+
+### 🔹 Health Resources  
+- **Health Blog**: Provides daily health tips and wellness information.  
+- **Disease Information**: Users can explore various diseases and their symptoms.  
+- **FAQ Section**: Common health-related queries answered.  
+
+### 🔹 Emergency Support  
+- **Nearby Blood Banks**: Locate and request blood from available blood banks.  
+- **Blood Requests**: If blood is unavailable, the user is notified.  
+
+### 🔹 Secure Payments  
+- **Payment Options**: Integrated payment system for doctor consultations.  
+
+## 🛠️ Tech Stack  
+- **Language**: Java  
+- **Database**: Firebase  
+- **Authentication**: Firebase Authentication  
+- **Real-time Chat**: Firebase Firestore  
+- **APIs**: Google Maps API (for blood bank locations), Payment Gateway API  
+
+ 
+
+## 🎯 How to Run the Project  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Priyanka-Podder/HEALTH_BUDDY.git
+   
+2. Open the project in **Android Studio**.  
+3. Set up **Firebase** and add your `google-services.json` file.  
+4. Build and run the project on an **Android emulator or real device**.  
+
+
+
+## 🤝 Contributing  
+Contributions are welcome! Feel free to open **issues** or **pull requests**.  
