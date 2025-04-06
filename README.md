@@ -1,7 +1,7 @@
 
-# 🏥 HEALTH BUDDY
+# 🏥 WellNest
 
-Health Buddy is a **comprehensive health monitoring app** that allows users to **track their health, consult doctors, check nearby blood banks, detect mood, and access health-related blogs**. This app provides a one-stop solution for users to maintain their well-being.  
+WellNest is a **comprehensive health monitoring app** that allows users to **track their health, consult doctors, check nearby blood banks, detect mood, and access health-related blogs**. This app provides a one-stop solution for users to maintain their well-being.  
 
 ## 🚀 Features  
 
@@ -40,7 +40,7 @@ Health Buddy is a **comprehensive health monitoring app** that allows users to *
 ## 🎯 How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Priyanka-Podder/HEALTH_BUDDY.git
+   git clone https://github.com/Priyanka-Podder/WellNest.git
    
 2. Open the project in **Android Studio**.  
 3. Set up **Firebase** and add your `google-services.json` file.  
